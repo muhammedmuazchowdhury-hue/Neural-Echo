@@ -11,4 +11,7 @@
 ### 🛠️ Tech Stack
 - **Transcription Engine:** AssemblyAI Python SDK
 - **Frontend & UI:** Streamlit Framework
-- **Deployment:** Streamlit Community Cloudhttps://neural-echo-4oavc8zl3mqgyitx6icmgd.streamlit.app/#assembly-ai-voice-to-text-prototype
+- **Deployment:** Streamlit Community Cloud :
+
+
+https://neural-echo-4oavc8zl3mqgyitx6icmgd.streamlit.app/#assembly-ai-voice-to-text-prototype
